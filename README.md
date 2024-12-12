@@ -60,6 +60,3 @@ If you plan to use this script frequently, you can create a button or an alias f
      Again, replace `FullPathToYourScript` with the actual path.
 
 3. **Use the Alias**: Type the alias (e.g., `m2`) into the command line and press **Enter** to run the script.
----
-
-By using this script, architects, designers, and other professionals can ensure each project begins with a consistent, well-organised layer structure, ultimately saving time and improving the clarity and quality of their digital modelling environment.
