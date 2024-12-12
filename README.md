@@ -41,7 +41,7 @@ If you plan to use this script frequently, you can create a button or an alias f
 
    - **Left Button Command**:
      ```plaintext
-     ! _-RunPythonScript "FullPathToYourScript\2pt_move.py"
+     ! _-RunPythonScript "FullPathToYourScript\import_Rhino_layerTemplate"
      ```
      Replace `FullPathToYourScript` with the actual file path where you saved the script.
    - **Tooltip and Help**: Add a description for the button's functionality.
@@ -52,11 +52,11 @@ If you plan to use this script frequently, you can create a button or an alias f
 1. Go to **Tools > Options** and select the **Aliases** tab.
 2. **Create a New Alias**:
 
-   - **Alias**: Choose a short command name, e.g., `m2`.
+   - **Alias**: Choose a short command name, e.g., `importlayer`.
    - **Command Macro**:
      ```plaintext
-     _-RunPythonScript "FullPathToYourScript\2pt_move.py"
+     _-RunPythonScript "FullPathToYourScript\import_Rhino_layerTemplate"
      ```
      Again, replace `FullPathToYourScript` with the actual path.
 
-3. **Use the Alias**: Type the alias (e.g., `m2`) into the command line and press **Enter** to run the script.
+3. **Use the Alias**: Type the alias (e.g., `importlayer`) into the command line and press **Enter** to run the script.
